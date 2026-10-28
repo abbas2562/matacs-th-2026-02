@@ -11,7 +11,7 @@
 | [WRITEUP.md](./WRITEUP.md) | Answers to the five questions (under 1,000 words) |
 | [PROMPTS.md](./PROMPTS.md) | The exact extraction and evidence-assist prompts, schemas, and the checks done in code |
 | [ranking.json](./ranking.json) | Expected ranking of proposals A to E |
-| [diagram/process-flow.png](./diagram/process-flow.png) | Flow diagram from upload to the human award decision |
+| [diagram/process-flow.png](process-flow.png) | Flow diagram from upload to the human award decision |
 
 **Suggested reading order:** the diagram, then WRITEUP.md, then ranking.json with the scoring section below, then PROMPTS.md.
 
