@@ -65,8 +65,5 @@ Note on D: its result matters. I calculated outside the ranking that if D confir
 
 ## How I used AI tools
 
-I used Chat GPT to generate a prompt for the Claude to help draft the structure, prompts and flow diagram, and then checked the scoring numbers with a separate calculation. **[VERIFY AND EDIT: keep only if it matches what you really did.]** For example, the AI's first draft [treated Proposal B's "licensed subcontractor to be confirmed" as a pass with a warning because of its price and schedule; I changed it to ineligible because the admin criterion says the licence must be held by the bidder and stated in the proposal, and a pending subcontractor is not that].
-
-> **Note to self (delete before publishing):** the bracketed disagreement above is a suggested example based on the assessment, not a record of what you did. Replace it with a real correction you made, or keep it only if it genuinely reflects your review.
-
+I used Chat GPT to generate a prompt for the Claude to help draft the structure, prompts and flow diagram, and then checked the scoring numbers with a separate calculation.
 Nothing here used real client or personal data. No code or API keys are in this repository.
